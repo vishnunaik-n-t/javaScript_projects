@@ -1,5 +1,5 @@
 const addbtn=document.getElementById("addbtn");
-
+//notes taking app
 const saveNotes=()=>{
     const notes=document.querySelectorAll(".note textarea");
     const data=[];
